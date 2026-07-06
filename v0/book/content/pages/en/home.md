@@ -1,6 +1,6 @@
 # Welcome
 
-Hubleto developer guide
+Hubleto user guide
 
 <div class="alert alert-info">
   Hubleto is modular open-source CRM/ERP platform combining other popular libraries like <b>ReactJS, TailwindCSS, Twig or Primereact</b>. Has many built-in features and repository of <b>free apps</b> ready for your project.<br/>
