@@ -49,21 +49,28 @@ tableOfContents:
           - page: en/apps/sales/deals
           - page: en/apps/sales/products
           - page: en/apps/sales/orders
-      - page: en/apps/projects
+      - page: en/apps/productivity
         children:
-          - page: en/apps/projects/tasks
-          - page: en/apps/projects/worksheets
-          - page: en/apps/projects/projects
-          - page: en/apps/projects/issues
-      - page: en/apps/supply-chain
+          - page: en/apps/productivity/tasks
+          - page: en/apps/productivity/worksheets
+          - page: en/apps/productivity/projects
+          - page: en/apps/productivity/issues
+      - page: en/apps/warehouses
         children:
-          - page: en/apps/supply-chain/warehouses
-          - page: en/apps/supply-chain/inventory
+          - page: en/apps/warehouses/warehouses
+          - page: en/apps/warehouses/inventory
       - page: en/apps/finance
         children:
           - page: en/apps/finance/invoices
+      - page: en/apps/communication
+        children:
+          - page: en/apps/communication/discussions
       - page: en/apps/maintenance
         children:
           - page: en/apps/maintenance/notifications
           - page: en/apps/maintenance/settings
           - page: en/apps/maintenance/tools
+      - page: en/apps/help
+        children:
+          - page: en/apps/help/help
+          - page: en/apps/help/about
